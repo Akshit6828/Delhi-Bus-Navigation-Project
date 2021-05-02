@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sas.delhibusnavigator"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme" >
+        <activity
+            android:name="com.sas.delhibusnavigator.SplashActivity"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait"
+            >
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.sas.delhibusnavigator.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sas.delhibusnavigator.ViewRouteActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.sas.delhibusnavigator.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sas.delhibusnavigator.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.VIEWROUTEACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sas.delhibusnavigator.RouteActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.sas.delhibusnavigator.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sas.delhibusnavigator.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.ROUTEACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sas.delhibusnavigator.AboutActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.sas.delhibusnavigator.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sas.delhibusnavigator.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.ABOUTACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sas.delhibusnavigator.DisclaimerActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.sas.delhibusnavigator.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sas.delhibusnavigator.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.DISCLAIMERACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sas.delhibusnavigator.TourismActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.sas.delhibusnavigator.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.sas.delhibusnavigator.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.TOURISMACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.sas.delhibusnavigator.TutorialActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="com.sas.delhibusnavigator.TUTORIALACTIVITY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        
+    </application>
+
+</manifest>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tutorial.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\view_route.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\view_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\about.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\disclaimer.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\disclaimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\route.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

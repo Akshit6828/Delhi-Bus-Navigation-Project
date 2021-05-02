@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".MainActivity$DummySectionFragment" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        <AutoCompleteTextView
+            android:id="@+id/actvSource"
+            android:layout_weight="1"
+	        android:completionThreshold="3"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_gravity="bottom"
+    	    android:hint="@string/actvSource" />
+        <ImageButton 
+             android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:background="@drawable/spee"
+    	    android:id="@+id/speakSource" />
+	</LinearLayout>
+        
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+    	<AutoCompleteTextView
+        	android:id="@+id/actvDestination"
+        	android:completionThreshold="3"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_weight="1"
+        	android:layout_gravity="center"
+        	android:hint="@string/actvDestination" />
+    	<ImageButton 
+             android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:id="@+id/speakDestination"
+    	    android:background="@drawable/spee" />
+	 </LinearLayout>
+
+    	<Button
+        	android:id="@+id/bFind"
+        	android:layout_width="match_parent"
+        	android:layout_height="wrap_content"
+        	android:text="@string/bFind" />
+    
+    </LinearLayout>
+    
+    
+

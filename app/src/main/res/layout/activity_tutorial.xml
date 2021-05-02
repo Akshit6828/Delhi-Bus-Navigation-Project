@@ -1,0 +1,190 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:alpha="0.7"
+    tools:context=".TutorialActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="25sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:gravity="right"
+            android:text="@string/tu_top"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="50dp"
+            android:src="@drawable/rarrow"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/uarrow"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/uarrow"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="50dp"
+            android:layout_weight="1"
+            android:src="@drawable/uarrow"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="@string/tu_tab1"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="@string/tu_tab2"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:text="@string/tu_tab3"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="50dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/larrow"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:text="@string/tu_msg"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/rarrow"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="50dp"
+        android:gravity="bottom|right" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="@string/tu_btn"
+            android:shadowColor="#FFFFFF"
+            android:shadowDx="0.0"
+            android:shadowDy="0.0"
+            android:shadowRadius="20" />
+
+    </LinearLayout>
+
+</LinearLayout>

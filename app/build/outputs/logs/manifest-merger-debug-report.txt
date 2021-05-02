@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:2:1-130:12
+	package
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:10:1-75
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:10:18-72
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:12:22-66
+application
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:13:5-128:19
+MERGED from [com.android.support:support-v4:23.1.0] C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:17:9-37
+activity#com.sas.delhibusnavigator.SplashActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:18:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:19:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.sas.delhibusnavigator.MainActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:32:13-66
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.MAINACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:35:13-39:29
+action#com.sas.delhibusnavigator.MAINACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:36:25-78
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:38:27-73
+activity#com.sas.delhibusnavigator.ViewRouteActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:41:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:43:13-45
+	android:parentActivityName
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:44:13-80
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:42:13-71
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:46:13-48:74
+	android:value
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:48:17-71
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:47:17-63
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.VIEWROUTEACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:50:13-54:29
+action#com.sas.delhibusnavigator.VIEWROUTEACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:51:17-86
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:51:25-83
+activity#com.sas.delhibusnavigator.RouteActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:56:9-70:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:58:13-45
+	android:parentActivityName
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:59:13-80
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:57:13-67
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.ROUTEACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:65:13-69:29
+action#com.sas.delhibusnavigator.ROUTEACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:66:17-82
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:66:25-79
+activity#com.sas.delhibusnavigator.AboutActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:71:9-85:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:73:13-45
+	android:parentActivityName
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:74:13-80
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:72:13-67
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.ABOUTACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:80:13-84:29
+action#com.sas.delhibusnavigator.ABOUTACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:81:17-82
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:81:25-79
+activity#com.sas.delhibusnavigator.DisclaimerActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:86:9-100:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:88:13-45
+	android:parentActivityName
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:89:13-80
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:87:13-72
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.DISCLAIMERACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:95:13-99:29
+action#com.sas.delhibusnavigator.DISCLAIMERACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:96:17-87
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:96:25-84
+activity#com.sas.delhibusnavigator.TourismActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:101:9-115:20
+	android:screenOrientation
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:103:13-45
+	android:parentActivityName
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:104:13-80
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:102:13-69
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.TOURISMACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:110:13-114:29
+action#com.sas.delhibusnavigator.TOURISMACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:111:17-84
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:111:25-81
+activity#com.sas.delhibusnavigator.TutorialActivity
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:118:9-126:20
+	android:label
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:120:13-45
+	android:theme
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:121:13-72
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:119:13-70
+intent-filter#android.intent.category.DEFAULT+com.sas.delhibusnavigator.TUTORIALACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:122:13-125:29
+action#com.sas.delhibusnavigator.TUTORIALACTIVITY
+ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:123:17-84
+	android:name
+		ADDED from C:\Users\Sintoo kumar\AndroidStudioProjects\DelhiBusNavigator\app\src\main\AndroidManifest.xml:123:25-82

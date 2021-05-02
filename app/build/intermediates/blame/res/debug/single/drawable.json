@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\spinner_background_ab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\btn_cab_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\tab_indicator_ab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uarrow.png",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\uarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_textured.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\ab_background_textured.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\progress_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\selectable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rarrow.png",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\rarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\pressed_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\larrow.png",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\drawable\\larrow.png"
+    }
+]

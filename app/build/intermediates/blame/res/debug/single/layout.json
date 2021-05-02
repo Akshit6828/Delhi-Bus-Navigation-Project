@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_route.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_dummy1.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\fragment_main_dummy1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tour.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\tour.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_route.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_view_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_show.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\slide_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_dummy2.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\fragment_main_dummy2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_dummy3.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\fragment_main_dummy3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disclaimer.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_disclaimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tutorial.xml",
+        "source": "C:\\Users\\Sintoo kumar\\AndroidStudioProjects\\DelhiBusNavigator\\app\\src\\main\\res\\layout\\activity_tutorial.xml"
+    }
+]
